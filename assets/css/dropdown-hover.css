@@ -1,0 +1,14 @@
+@media (min-width: 600px) {
+  .dropdown:hover > .dropdown-menu {
+    display: block;
+    margin-top: 0;
+  }
+}
+
+.dropdown > .dropdown-toggle:active {
+  pointer-events: none;
+}
+
+.dropdown-menu {
+}
+

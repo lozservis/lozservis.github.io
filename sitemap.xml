@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>/choises.html</loc>
+    </url>
+    <url>
+        <loc>/contacts.html</loc>
+    </url>
+    <url>
+        <loc>/graphictablet.html</loc>
+    </url>
+    <url>
+        <loc>/</loc>
+    </url>
+    <url>
+        <loc>/laptop.html</loc>
+    </url>
+    <url>
+        <loc>/pc.html</loc>
+    </url>
+    <url>
+        <loc>/phonetablet.html</loc>
+    </url>
+    <url>
+        <loc>/router.html</loc>
+    </url>
+    <url>
+        <loc>/services.html</loc>
+    </url>
+    <url>
+        <loc>/tv.html</loc>
+    </url>
+</urlset>
