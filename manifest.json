@@ -1,1 +1,1 @@
-{"short_name":"Lozservis","name":"Lozservis","icons":[{"src":"/assets/img/svg.svg","type":"image/svg+xml","sizes":"640x512"},{"src":"/assets/img/svg.svg","type":"image/svg+xml","sizes":"640x512"}],"start_url":"index.html","display":"fullscreen"}
+{"short_name":"Lozservis","name":"Lozservis","icons":[{"src":"https://lozservis.pp.ua/assets/img/svg.svg","type":"image/svg+xml","sizes":"640x512"},{"src":"https://lozservis.pp.ua/assets/img/svg.svg","type":"image/svg+xml","sizes":"640x512"}],"start_url":"index.html","display":"fullscreen"}
