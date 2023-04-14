@@ -28,6 +28,9 @@
         <loc>https://lozservis.pp.ua/services.html</loc>
     </url>
     <url>
+        <loc>https://lozservis.pp.ua/test.html</loc>
+    </url>
+    <url>
         <loc>https://lozservis.pp.ua/tv.html</loc>
     </url>
 </urlset>
