@@ -1,0 +1,37 @@
+.floatlink:hover {
+  color: #9f9f9f;
+}
+
+.floatlink {
+  box-shadow: 1px 1px 0px 1px #c19a2f, -1px -1px 0px 1px #c19a2f;
+  width: 39px;
+  height: 37px;
+  bottom: 2px;
+  color: #ffffff;
+  font-size: 1.7em;
+  text-align: center;
+  background-color: rgba(19,20,25,0.6);
+  border-radius: 10px;
+  position: fixed;
+}
+
+#telegram-link {
+  /*right: 8px;*/
+  /*top: 222px;*/
+}
+
+#viber-link {
+  /*right: 8px;*/
+  /*top: 172px;*/
+}
+
+#whatsapp-link {
+  /*right: 8px;*/
+  /*top: 122px;*/
+}
+
+#call-link {
+  /*right: 8px;*/
+  /*top: 72px;*/
+}
+
